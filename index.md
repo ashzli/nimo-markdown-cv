@@ -4,7 +4,7 @@ title: lizhixuan_cv
 email:
   url: mailto:ashzli@foxmail.com
   text: ashzli@foxmail.com
-email:
+phone:
   text: 13128692413
 ---
 
