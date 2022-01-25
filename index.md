@@ -34,7 +34,7 @@ New Concord, OH
 
 ## 专业技能
 
-+ 熟练掌握Java语言悉B/S开发模式及MVC设计思想
++ 熟练掌握Java语言，熟悉B/S开发模式及MVC设计思想
 + 熟练掌握j2EE，SpringBoot、SpringCloud等相关的web应用开发技术
 + 熟练掌握jquery，requriedJs、reactJs等前端布局框架等网页技术
 + 熟练掌握MySQL、Oracle等关系型数据库。能够使用复杂的sql查询语句,sql性能优化等。掌握Mybatis和Hibernate等常用开持久化框架
@@ -43,7 +43,7 @@ New Concord, OH
 
 ## 工作经验
 
-### **益农控股（广东）有限公司** `2029.5 - 2020.6`
+### **益农控股（广东）有限公司** `2019.5 - 2020.6`
 
 _Java开发工程师_<br>
 + 根据项目经理的需求进行益农商城的新功能开发。
